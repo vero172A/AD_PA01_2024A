@@ -280,7 +280,7 @@ namespace Cliente
             this.Controls.Add(this.panLogin);
             this.Name = "FrmValidador";
             this.Text = "Hoy no Circula";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmValidador_FormClosing);
+          //  this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmValidador_FormClosing);
             this.Load += new System.EventHandler(this.FrmValidador_Load);
             this.panLogin.ResumeLayout(false);
             this.panLogin.PerformLayout();

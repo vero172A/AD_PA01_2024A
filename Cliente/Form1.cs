@@ -4,7 +4,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Net.Sockets;
 using Protocolo;
-
+//
 namespace Cliente
 {
     public partial class FrmValidador : Form
